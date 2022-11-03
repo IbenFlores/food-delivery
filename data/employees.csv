@@ -1,0 +1,3 @@
+id,username,password,check_in_time,role
+1,pepe,secret,4.20,rider
+2,iskander,secret,10,manager
